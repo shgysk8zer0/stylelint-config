@@ -1,6 +1,7 @@
 *.cjs
 *.mjs
 *.min.*
+!test/ignored.min.css
 *.map
 *.bak
 *.gz

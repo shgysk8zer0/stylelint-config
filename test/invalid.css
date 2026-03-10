@@ -1,0 +1,8 @@
+/* stylelint-disable */
+
+/* Violates: declaration-no-important and block-no-empty */
+.button {
+	color: #fff !important;
+}
+
+.empty-block {}
