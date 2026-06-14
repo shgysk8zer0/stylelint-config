@@ -26,7 +26,7 @@ A standard config for Stylelint
 
 - [Code of Conduct](./.github/CODE_OF_CONDUCT.md)
 - [Contributing](./.github/CONTRIBUTING.md)
-<!-- - [Security Policy](./.github/SECURITY.md) -->
+- [Security Policy](./.github/SECURITY.md)
 
 ## Usage
 
