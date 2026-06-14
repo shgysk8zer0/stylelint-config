@@ -1,6 +1,6 @@
 # `@shgysk8zer0/stylelint-config`
 
-A standard config for Stylelint 
+A standard config for Stylelint
 
 [![CodeQL](https://github.com/shgysk8zer0/stylelint-config/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/shgysk8zer0/stylelint-config/actions/workflows/codeql-analysis.yml)
 ![Node CI](https://github.com/shgysk8zer0/stylelint-config/workflows/Node%20CI/badge.svg)
