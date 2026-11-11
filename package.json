@@ -72,7 +72,7 @@
     "@shgysk8zer0/eslint-config": "^1.0.7",
     "eslint": "^10.0.3",
     "rollup": "^4.59.0",
-    "stylelint": "^17.4.0"
+    "stylelint": "^18.0.0"
   },
   "allowScripts": {
     "fsevents@2.3.3": true
